@@ -14,7 +14,7 @@ I'm Nguyen Duy Ngoc, a student at Faculty of Computer Science, University of Inf
   
 - 💼 My email: nguyenduyngoccter@gmail.com
 
-**languages and tools:**  
+**Skills:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"></code>
