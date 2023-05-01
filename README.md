@@ -1,11 +1,4 @@
 ### Hi there! 
-<a href="https://www.facebook.com/ngoc.nguyenduy.5836711">
-  <img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" />
-</a>
-<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-duy-ng%E1%BB%8Dc-42a395229/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
 
 I'm Nguyen Duy Ngoc, a student at Faculty of Computer Science, University of Information Technology - Vietnam National University, Ho Chi Minh City. I pursue the path of becoming an AI Engineer to  desire to apply coding with Python and creativity in Computer Vision, NLP, Web Application and Artificial Intelligence jobs.
 
