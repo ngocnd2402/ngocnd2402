@@ -22,7 +22,6 @@ I'm Nguyen Duy Ngoc, a student at Faculty of Computer Science, University of Inf
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png"></code>
 <cpde><img height="20" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png?f=webp&w=256"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
